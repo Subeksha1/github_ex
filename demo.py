@@ -1,2 +1,2 @@
-def func1 (str1):
-	print(str1)
+def func1 (str_1):
+	print(str_1)
